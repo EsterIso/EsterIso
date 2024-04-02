@@ -2,8 +2,7 @@
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
-- <b>GUI Practice</b>
-  - [Small-Game-Library](https://github.com/EsterIso/Small-Game-Library)
+- [Small-Game-Library](https://github.com/EsterIso/Small-Game-Library)
 
 <h2>📺 Certifications</h2>
 
