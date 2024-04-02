@@ -3,6 +3,8 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - [Small-Game-Library](https://github.com/EsterIso/Small-Game-Library)
+- [TicTacToe-vs-CPU-or-Friend](https://github.com/EsterIso/TicTacToe-vs-CPU-or-Friend.git)
+
 
 <h2>📺 Certifications</h2>
 
