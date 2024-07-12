@@ -3,7 +3,7 @@
 <h2>👨‍💻 Software Development Projects:</h2>
 
 - [Small-Game-Library](https://github.com/EsterIso/Small-Game-Library)
-- [TicTacToe-vs-CPU-or-Friend](https://github.com/EsterIso/TicTacToe-vs-CPU-or-Friend.git)
+- [Timely To Dos - Task Management App](https://github.com/EsterIso/Timely-To-Dos/tree/TimelyToDos-v1.0.0)
 - [Weather-App](https://github.com/EsterIso/Weather-App.git)
 
   
