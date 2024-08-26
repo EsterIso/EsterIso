@@ -38,18 +38,19 @@
 
 ---
 
-<h2>📜 Certifications</h2>
+## 📜 Certifications
 - **[CodeAcademy Learn Java Course](https://www.codecademy.com/profiles/EsterlinJ/certificates/d3f89367b558583e361640f778191345)**: Certification in Java programming.
 
 ---
 
-<h2>🤝 Connect with Me</h2>
+## 🤝 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Esterlin%20Jerez-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esterlin-jerez-paulino-11b57a2b2/)
 
 ---
 
-<h2>📈 GitHub Stats</h2>
+## 📈 GitHub Stats
 ![Esterlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsterIso&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
 
 ---
 
