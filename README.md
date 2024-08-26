@@ -1,41 +1,62 @@
-<h1>Hi, I'm Esterlin! <br/><a href="https://github.com/joshmadakor1">Programmer</a>
+![Header Image](https://via.placeholder.com/1200x300?text=Welcome+to+My+GitHub+Profile)
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h1>Hello, I'm Esterlin!</h1>
+<h3>👨‍💻 Passionate Software Developer</h3>
 
-- [Small-Game-Library](https://github.com/EsterIso/Small-Game-Library)
-- [Timely To Dos - Task Management App](https://github.com/EsterIso/Timely-To-Dos/tree/TimelyToDos-v1.0.0)
-- [Weather-App](https://github.com/EsterIso/Weather-App.git)
+---
 
-  
+<h2>🚀 Software Development Projects</h2>
 
+<p>
+  <img src="https://img.shields.io/badge/Java-F8DE7E?style=flat&logo=java&logoColor=black" alt="Java" height="20" />
+  <img src="https://img.shields.io/badge/JavaFX-3F6C9E?style=flat&logo=java&logoColor=white" alt="JavaFX" height="20" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="20" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" height="20" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" height="20" />
+</p>
 
-<h2>📺 Certifications</h2>
+- **[Small-Game-Library](https://github.com/EsterIso/Small-Game-Library)**  
+  A collection of small, interactive games to explore and enjoy. Built with Java and JavaFX.
 
-- [CodeAcademy Learn Java Course](https://www.codecademy.com/profiles/EsterlinJ/certificates/d3f89367b558583e361640f778191345)
+- **[Timely To Dos - Task Management App](https://github.com/EsterIso/Timely-To-Dos/tree/TimelyToDos-v1.0.0)**  
+  An efficient task management application built with JavaFX. Manage your tasks with a sleek interface.
 
-<h2> 🤳 Connect with me:</h2>
+- **[Weather-App](https://github.com/EsterIso/Weather-App.git)**  
+  A weather application providing real-time updates and forecasts. Created with Python and Flask.
 
-<!--[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] -->
-[<img align="left" alt="EsterlinJerez | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<!--[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram] -->
+---
 
-<!--[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/ -->
-[linkedin]: https://www.linkedin.com/in/esterlin-jerez-paulino-11b57a2b2/
+<h2>📈 Technologies Used</h2>
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white" alt="Java" height="25" />
+  <img src="https://img.shields.io/badge/JavaFX-FF9E00?style=flat&logo=java&logoColor=black" alt="JavaFX" height="25" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python" height="25" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" height="25" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" alt="Django" height="25" />
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" alt="Flask" height="25" />
+</p>
 
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+<h2>📜 Certifications</h2>
+- **[CodeAcademy Learn Java Course](https://www.codecademy.com/profiles/EsterlinJ/certificates/d3f89367b558583e361640f778191345)**: Certification in Java programming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<h2>🤝 Connect with Me</h2>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Esterlin%20Jerez-blue?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esterlin-jerez-paulino-11b57a2b2/)
+
+---
+
+<h2>📈 GitHub Stats</h2>
+![Esterlin's GitHub stats](https://github-readme-stats.vercel.app/api?username=EsterIso&show_icons=true&hide_title=true&count_private=true&hide=prs)
+
+---
+
+<h2>💡 Fun Fact</h2>
+I love exploring new technologies and finding creative solutions to complex problems!
+
+---
+
+<p align="center">Feel free to browse through my repositories and connect with me on LinkedIn. I’m always open to discussing exciting projects and opportunities!</p>
+
