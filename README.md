@@ -85,3 +85,4 @@ I love exploring new technologies and finding creative solutions to complex prob
 <p align="center">
   <img src="https://example.com/your-animated-footer.gif" alt="Animated Footer" />
 </p>
+
