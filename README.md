@@ -7,51 +7,40 @@
 ---
 
 ## 🛠️ Technologies & Tools
-
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaFX](https://img.shields.io/badge/JavaFX-FF9E00?style=for-the-badge&logo=java&logoColor=black)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
 ## 📂 Portfolio
-
 ### 🚀 Projects
 
-<details>
-<summary>Small-Game-Library</summary>
-
+**Small-Game-Library**
 - **Description**: A collection of small, interactive games to explore and enjoy.
 - **Technologies**: Java, JavaFX
 - **[View Project](https://github.com/EsterIso/Small-Game-Library)**
 
-</details>
-
-<details>
-<summary>Timely To Dos - Task Management App</summary>
-
+**Timely To Dos - Task Management App**
 - **Description**: An efficient task management application with a sleek interface.
 - **Technologies**: JavaFX
 - **[View Project](https://github.com/EsterIso/Timely-To-Dos/tree/TimelyToDos-v1.0.0)**
 
-</details>
-
-<details>
-<summary>Weather-App</summary>
-
+**Weather-App**
 - **Description**: A weather application providing real-time updates and forecasts.
 - **Technologies**: Python, Flask
 - **[View Project](https://github.com/EsterIso/Weather-App.git)**
 
-</details>
-
 ### 📜 Certifications
-
 - [CodeAcademy Learn Java Course](https://www.codecademy.com/profiles/EsterlinJ/certificates/d3f89367b558583e361640f778191345)
-
 ---
 
 ## 📊 GitHub Stats
