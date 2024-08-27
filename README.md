@@ -4,6 +4,8 @@
 
 ## 👨‍💻 Passionate Software Developer
 
+I'm a dedicated software developer with a keen interest in web development and a drive for creating practical solutions. I thrive on the challenges of building responsive and intuitive web applications, leveraging modern technologies to bring ideas to life. My passion extends to crafting projects that address everyday problems, always seeking innovative ways to improve user experiences and streamline processes. Whether it's developing a new web app or finding a clever solution to a common issue, I'm always excited to dive in and code my way to success!
+
 ---
 
 ## 🛠️ Technologies & Tools
@@ -26,10 +28,13 @@
 ## 📂 Portfolio
 ### 🚀 Projects
 
-**Small-Game-Library**
-- **Description**: A collection of small, interactive games to explore and enjoy.
-- **Technologies**: Java, JavaFX
-- **[View Project](https://github.com/EsterIso/Small-Game-Library)**
+## 📂 Portfolio
+### 🚀 Projects
+**CoolCardsAI - AI Flashcard Generation**
+- **Description**: An AI-powered flashcard generation tool that allows users to create study flashcards on the fly with simple prompts.
+- **Technologies**: Next.js, OpenAI, Firebase, Clerk, Stripe
+- **[View Live Site](https://coolcards-ai.vercel.app/)**
+- **[View Project on GitHub](https://github.com/aishasalim/flashcard-saas)**
 
 **Timely To Dos - Task Management App**
 - **Description**: An efficient task management application with a sleek interface.
@@ -57,8 +62,8 @@
 ---
 
 ## 🤝 Connect with Me
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Esterlin%20Jerez-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/esterlin-jerez-paulino-11b57a2b2/)
+[![Personal Website](https://img.shields.io/badge/Personal%20Website-Visit-green?style=for-the-badge&logo=github&logoColor=white)](https://esteriso.github.io/WebResume/)
 
 ---
 
