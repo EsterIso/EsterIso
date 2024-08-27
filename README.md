@@ -1,4 +1,4 @@
-![Header Image](https://your-custom-header-image-url.com)
+
 
 # Hello, I'm Esterlin! 👋
 
