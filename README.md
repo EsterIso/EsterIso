@@ -27,9 +27,6 @@ I'm a dedicated software developer with a keen interest in web development and a
 
 ## 📂 Portfolio
 ### 🚀 Projects
-
-## 📂 Portfolio
-### 🚀 Projects
 **CoolCardsAI - AI Flashcard Generation**
 - **Description**: An AI-powered flashcard generation tool that allows users to create study flashcards on the fly with simple prompts.
 - **Technologies**: Next.js, OpenAI, Firebase, Clerk, Stripe
