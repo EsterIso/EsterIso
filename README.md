@@ -27,21 +27,24 @@ I'm a dedicated software developer with a keen interest in web development and a
 
 ## 📂 Portfolio
 ### 🚀 Projects
+
+**Notes Assistant - AI-Powered Study Platform**
+- **Description**: An AI-powered study platform that transforms PDFs into interactive learning materials, reducing study preparation time by 60%. Features real-time AI processing with automatic generation of summaries, flashcards, and quiz questions.
+- **Technologies**: React, Vite, Node.js, Express, MongoDB, JWT, OpenAI API
+- **[View Live Site](https://ai-meeting-notes-ebon.vercel.app/)** 
+- **[View Project on GitHub](https://github.com/EsterIso/AI-Notes-Assistant)**
+
+**TimeMesh - Multi-Calendar Sharing Web App**
+- **Description**: A scalable web application supporting 400+ users with multiple calendar views and real-time functionality. Features AI-powered time management events and calendar import functionality, receiving a $1,000 investment offer from Lunchbox co-founder.
+- **Technologies**: React, Django, PostgreSQL, Tailwind, Google OAuth, OpenRouter AI
+- **[View Live Site](https://timemesh-eight.vercel.app/)** 
+- **[View Project on GitHub](https://github.com/jason-huang-dev/headstarter)**
+
 **CoolCardsAI - AI Flashcard Generation**
 - **Description**: An AI-powered flashcard generation tool that allows users to create study flashcards on the fly with simple prompts.
 - **Technologies**: Next.js, OpenAI, Firebase, Clerk, Stripe
 - **[View Live Site](https://coolcards-ai.vercel.app/)**
 - **[View Project on GitHub](https://github.com/aishasalim/flashcard-saas)**
-
-**Timely To Dos - Task Management App**
-- **Description**: An efficient task management application with a sleek interface.
-- **Technologies**: JavaFX
-- **[View Project](https://github.com/EsterIso/Timely-To-Dos/tree/TimelyToDos-v1.0.0)**
-
-**Weather-App**
-- **Description**: A weather application providing real-time updates and forecasts.
-- **Technologies**: Python, Flask
-- **[View Project](https://github.com/EsterIso/Weather-App.git)**
 
 ### 📜 Certifications
 - [CodeAcademy Learn Java Course](https://www.codecademy.com/profiles/EsterlinJ/certificates/d3f89367b558583e361640f778191345)
