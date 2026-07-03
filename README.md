@@ -1,53 +1,48 @@
-
-
 # Hello, I'm Esterlin! 👋
 
-## 👨‍💻 Passionate Software Developer
+## 👨‍💻 Software Developer | AI Research Associate @ Handshake | Tech Fellow @ CodePath
 
-I'm a dedicated software developer with a keen interest in web development and a drive for creating practical solutions. I thrive on the challenges of building responsive and intuitive web applications, leveraging modern technologies to bring ideas to life. My passion extends to crafting projects that address everyday problems, always seeking innovative ways to improve user experiences and streamline processes. Whether it's developing a new web app or finding a clever solution to a common issue, I'm always excited to dive in and code my way to success!
+I'm a software developer currently pursuing my M.S. in Computer Science at Stevens Institute of Technology. I build full-stack, AI-powered web applications, most recently a study platform that cuts document-generation failures by 60% and a multi-calendar app serving 400+ users. I also mentor students in technical interview prep through CodePath, and evaluate AI model outputs at scale as a Research Associate at Handshake.
 
 ---
 
 ## 🛠️ Technologies & Tools
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![JavaFX](https://img.shields.io/badge/JavaFX-007396?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
-![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Clerk](https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)
+![Stripe](https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=for-the-badge&logo=openai&logoColor=white)
 
 ---
 
 ## 📂 Portfolio
 ### 🚀 Projects
 
-**Notes Assistant - AI-Powered Study Platform**
-- **Description**: An AI-powered study platform that transforms PDFs into interactive learning materials, reducing study preparation time by 60%. Features real-time AI processing with automatic generation of summaries, flashcards, and quiz questions.
-- **Technologies**: React, Vite, Node.js, Express, MongoDB, JWT, OpenAI API
-- **[View Live Site](https://ai-meeting-notes-ebon.vercel.app/)** 
+**Notes Assistant — AI-Powered Study Platform**
+- **Description**: Full-stack study platform that ingests PDFs, DOCX files, and raw text to generate summaries, flashcards, quizzes, and action items via the OpenAI API. Built a sentence-aware chunking pipeline that reliably processes documents 10x larger than the base model's context window, and structured prompt templates with per-format error recovery that cut generation failures by 60%. Migrated auth from a custom JWT/bcrypt setup to Clerk, eliminating an XSS-prone token storage pattern.
+- **Technologies**: React, Vite, Node.js, Express, MongoDB, JWT, Clerk, OpenAI API
+- **[View Live Site](https://ai-meeting-notes-ebon.vercel.app/)**
 - **[View Project on GitHub](https://github.com/EsterIso/AI-Notes-Assistant)**
 
-**TimeMesh - Multi-Calendar Sharing Web App**
-- **Description**: A scalable web application supporting 400+ users with multiple calendar views and real-time functionality. Features AI-powered time management events and calendar import functionality, receiving a $1,000 investment offer from Lunchbox co-founder.
+**TimeMesh — Multi-Calendar Sharing Web App**
+- **Description**: Django/PostgreSQL platform serving 400+ users with multi-user event ownership, granular permissions, and cross-account calendar sharing. Cut API response times by 30% by pushing date-range filtering into PostgreSQL via the ORM, and built ICS import for Google, Outlook, and Apple that dropped onboarding time from 10 minutes to under 90 seconds, lifting completed sign-ups by 25%. Pitched to investors at Headstarter, ranking top 3 of hundreds of teams and securing a $1,000 investment offer.
 - **Technologies**: React, Django, PostgreSQL, Tailwind, Google OAuth, OpenRouter AI
-- **[View Live Site](https://timemesh-eight.vercel.app/)** 
+- **[View Live Site](https://timemesh-eight.vercel.app/)**
 - **[View Project on GitHub](https://github.com/jason-huang-dev/headstarter)**
-
-**CoolCardsAI - AI Flashcard Generation**
-- **Description**: An AI-powered flashcard generation tool that allows users to create study flashcards on the fly with simple prompts.
-- **Technologies**: Next.js, OpenAI, Firebase, Clerk, Stripe
-- **[View Live Site](https://coolcards-ai.vercel.app/)**
-- **[View Project on GitHub](https://github.com/aishasalim/flashcard-saas)**
 
 ### 📜 Certifications
 - [CodeAcademy Learn Java Course](https://www.codecademy.com/profiles/EsterlinJ/certificates/d3f89367b558583e361640f778191345)
+
 ---
 
 ## 📊 GitHub Stats
@@ -56,7 +51,7 @@ I'm a dedicated software developer with a keen interest in web development and a
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=EsterIso&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Esterlin's GitHub Stats" />
 </a>
 <a href="https://github.com/EsterIso">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsterIso&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EsterIso&hide=html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=4" />
 </a>
 
 ---
@@ -67,18 +62,7 @@ I'm a dedicated software developer with a keen interest in web development and a
 
 ---
 
-## 💡 Fun Fact
-
-I love exploring new technologies and finding creative solutions to complex problems!
-
----
-
 <p align="center">
   <i>Feel free to browse through my repositories and connect with me on LinkedIn. I'm always open to discussing exciting projects and opportunities!</i>
-</p>
-
-<!-- You can add a subtle animation here using an animated GIF or SVG -->
-<p align="center">
-  <img src="https://example.com/your-animated-footer.gif" alt="Animated Footer" />
 </p>
 
